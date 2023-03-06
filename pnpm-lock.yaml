@@ -18,6 +18,10 @@ specifiers:
   unocss: ^0.50.3
   vite: ^4.0.0
   vitest: ^0.25.3
+  zod: ^3.21.0
+
+dependencies:
+  zod: 3.21.0
 
 devDependencies:
   '@playwright/test': 1.31.2
@@ -2410,3 +2414,7 @@ packages:
     resolution: {integrity: sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==}
     engines: {node: '>=10'}
     dev: true
+
+  /zod/3.21.0:
+    resolution: {integrity: sha512-UYdykTcVxB6lfdyLzAqLyyYAlOcpoluECvjsdoaqfQmz9p+3LRaIqYcNiL/J2kFYp66fBM8wwBvIGVEjq7KtZw==}
+    dev: false

@@ -36,4 +36,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
 # Macro-Calculator-Web-V2
+
+Web version of the Macro Calculator CLI built with [Go](https://github.com/FACorreiaa/Macro-Calculator). Insert your data and get to know your calorie distribution depending on your objectives.
